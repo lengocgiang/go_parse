@@ -1,0 +1,29 @@
+{
+    "api_key": "14c5b7dacea9157029265b174491d340",
+    "distinct_id": "763_1495187301909_3495",
+    "event": "product_add_cart",
+    "params": {
+        "apps": [
+            "precommend",
+            "bsales"
+        ],
+        "cart_token": "dc2c336a009edf2762128e65806dfb1d",
+        "clientDevice": "desktop",
+        "clientIsMobile": "false",
+        "clientIsSmallScreen": "false",
+        "new_popup_crossell_mobile": "false",
+        "new_popup_upsell_mobile": "false",
+        "optionssegment": "cart_recommendation",
+        "optionstype": "up_sell",
+        "productRefId": "8284563078",
+        "product_id": "8284563078",
+        "quantity": "1",
+        "recommend_system_product_source": "item",
+        "sku": "00483332 (black)",
+        "source": "item",
+        "sources": "product_recommendation",
+        "timeExpire": "1495187599642",
+        "variant_id": "27661944134"
+    },
+    "timestamp": "1495187523"
+}
